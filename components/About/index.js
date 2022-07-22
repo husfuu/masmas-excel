@@ -9,7 +9,7 @@ export default function About() {
                         <p className="font-medium text-base max-w-xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint enim ad deserunt reiciendis temporibus nostrum accusantium, voluptatum neque vitae eum.</p>
                     </div>
                     <div className="w-full px-4 lg:w-1/2" >
-                        <h3>Let's connect</h3>
+                        <h3>Let connect</h3>
                         <div className="flex items-center">
                             {/* GitHub */}
                             <a href="https://github.com/husfuu" target="_blank" rel="noopener noreferrer" className="mr-3">
